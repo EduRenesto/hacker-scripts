@@ -2,14 +2,14 @@
 
 Baseado numa história real.
 
-Dizem as Lendas UFABCianas que, num dia de tempestade, o _Computeiro Endgame_
-chegará. Ele emergirá do Tamanduateí cheio, carregando seu antigo ThinkPad X220
-moddado, e ensinará a todos o que é ser um Programador Real.
-
-Estudiosos pesquisaram as tradições UFABCianas e, usando machine learning,
-desvendaram os scripts que o _Computeiro Endgame_ provavelmente usa.
-
-Esses scripts estão aqui.
+> Dizem as Lendas UFABCianas que, num dia de tempestade, o _Computeiro Endgame_
+> chegará. Ele emergirá do Tamanduateí cheio, carregando seu antigo ThinkPad X220
+> moddado, e ensinará a todos o que é ser um Programador Real.
+> 
+> Estudiosos pesquisaram as tradições UFABCianas e, usando machine learning,
+> desvendaram os scripts que o _Computeiro Endgame_ provavelmente usa.
+> 
+> Esses scripts estão aqui.
 
 ## Que scripts?
 
